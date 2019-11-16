@@ -15,3 +15,9 @@ building a simple application with next that will grab spider man information.
 - Javascript
 - CSS & HTML
 - 💓  
+
+### Credits
+- [Image designed by Shavil C](https://www.behance.net/wintergraphix) 
+
+### Contributers
+- Giordi Fungula
